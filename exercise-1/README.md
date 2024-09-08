@@ -1,0 +1,2 @@
+## Part 1
+The first part of this assignment is using the `scanf()` function in C to take in two integers from the terminal. Then perform addition, subtraction, multiplication, and division on those numbers. You must also check that number that is dividing the other is not zero.
