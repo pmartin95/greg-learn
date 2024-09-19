@@ -28,8 +28,6 @@ double variance(const int sample_set)
     double multiplier = 1 / ((double)sample_set - 1);
     double variance = diff_sqr * multiplier;
 
-    printf("%lf\n", multiplier);
-
     return variance;
 }
 
